@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Mo 👋
 
-<!--
-**mohamm010/mohamm010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub.
 
-Here are some ideas to get you started:
+I'm interested in data, how it works, what it reveals, and how to turn it into something useful. From exploring datasets and finding patterns to building data pipelines and working with databases, I enjoy the process of making sense of the mess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like solving problems, experimenting with ideas, and building things that actually work (eventually).
+
+When I'm not writing code, I'm probably watching something good, overthinking something simple, or trying to figure out why my code worked five minutes ago and suddenly doesn't. 
+
+### A little philosophy 💭
+
+*Data tells stories. The trick is knowing how to listen.*
+
+---
+
+*Somewhere between `SELECT *` and figuring it all out.* ☕
